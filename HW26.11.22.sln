@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW26.11.22", "HW26.11.22\HW26.11.22.csproj", "{D0485580-8891-4EE2-9C73-48D24E359E7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tumakov№1", "Tumakov№1\Tumakov№1.csproj", "{6670A366-D29D-42E7-9CD4-6D8D2778BA45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tumakov№2", "Tumakov№2\Tumakov№2.csproj", "{DBAA92F9-0E7C-4BAE-AEF4-2DFD5ECF9E51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0485580-8891-4EE2-9C73-48D24E359E7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0485580-8891-4EE2-9C73-48D24E359E7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0485580-8891-4EE2-9C73-48D24E359E7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0485580-8891-4EE2-9C73-48D24E359E7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6670A366-D29D-42E7-9CD4-6D8D2778BA45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6670A366-D29D-42E7-9CD4-6D8D2778BA45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6670A366-D29D-42E7-9CD4-6D8D2778BA45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6670A366-D29D-42E7-9CD4-6D8D2778BA45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBAA92F9-0E7C-4BAE-AEF4-2DFD5ECF9E51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBAA92F9-0E7C-4BAE-AEF4-2DFD5ECF9E51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBAA92F9-0E7C-4BAE-AEF4-2DFD5ECF9E51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBAA92F9-0E7C-4BAE-AEF4-2DFD5ECF9E51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CF072B1-C4D2-4B1D-B18F-818346CFC536}
+	EndGlobalSection
+EndGlobal
